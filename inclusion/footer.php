@@ -10,7 +10,7 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact pt-3">
-        <img src="https://i.ibb.co/7tzwwnh/sternaofficiel-2.png" alt="sterna-africa" class="w-25">
+        <img src="https://i.postimg.cc/MHHjkcG5/SOFT-IP.png" alt="sterna-africa" class="w-25">
         <p>
           Adiaké  <br>
           Côte d'Ivoire<br>
@@ -20,40 +20,27 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links pt-3">
-        <h4>Nos antennes</h4>
-        <ul>
-          <a href="https://sternaafrica.org/antenne/benin.php">Bénin</a> <br>
-          <a href="https://sternaafrica.org/antenne/burkinaFaso.php">Burkina Faso</a> <br>
-          <a href="https://sternaafrica.org/antenne/congoBrazza.php">Congo-Brazzaville</a> <br>
-          <a href="https://sternaafrica.org/antenne/CotedIvoire.php">Côte d'Ivoire</a> <br>
-          <a href="https://sternaafrica.org/antenne/togo.php" translate="no">Togo</a> <br>
-        </ul> <br>
+        <h4>Nos Formations</h4>
+          <a href="https://sternaafrica.org/antenne/benin.php">Développement Web</a> <br>
+          <a href="https://sternaafrica.org/antenne/burkinaFaso.php">Graphisme</a> <br>
+          <a href="https://sternaafrica.org/antenne/congoBrazza.php">GSM</a> <br>
+          <a href="https://sternaafrica.org/antenne/CotedIvoire.php">Marketing Digital</a> <br>
+          <a href="https://sternaafrica.org/antenne/togo.php" translate="no">Audiovisuel</a> <br><br>
       </div>
 
   
       <div class="col-lg-3 col-md-6 footer-links pt-3">
-        
-        <ul>
-          <h4>Contact & liens utiles</h4>
-          <a href="https://sternaafrica.org/pages/about.php">👉Qui sommes-nous ?</a><br>
-          <a href="https://sternaafrica.org/ils_parlent.php">👉Ils parlent de nous</a><br>
-          <a href="https://sternaafrica.org/rapport/annee_2023">👉Rapport annuels</a><br>
-          <strong>Email:</strong> <a href="mailto:contact@sternaafrica.org">contact@sternaafrica.org</a><br>
-          <strong>Contact:</strong> +225 05 56 77 90 12<br>
-
-        </ul><br>
+          <h4>Liens utiles</h4>
+          <a href="https://sternaafrica.org/pages/about.php">Cuisine</a><br>
+          <a href="https://sternaafrica.org/ils_parlent.php">Coiffure</a><br>
+          <a href="https://sternaafrica.org/rapport/annee_2023">Couture</a><br>
+          <a href="https://sternaafrica.org/rapport/annee_2023">Décoration</a><br><br>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links pt-3">
-        <h4>Nos coordonnées bancaires</h4>
-        <ul>
-          <strong>Banque :</strong> UBA Côte d'Ivoire<br>
-          <strong>Intitulé du compte :</strong> ASSOCIATION STERNA AFRICA CÖTE DIVOIRE <br>
-          <strong>N° de compte :</strong> 109100000238<br>
-          <strong>Iban:</strong> CI93CI1500100910910000023884<br>
-          <strong>Uba Swift:</strong> UNAFCIAB<br>
-        </ul>
-
+        <h4>Contact</h4>
+        <strong>Email:</strong> <a href="mailto:contact@sternaafrica.org">contact@sternaafrica.org</a><br>
+          <strong>Contact:</strong> +229 96 73 50 00<br>
       </div>
      
 
