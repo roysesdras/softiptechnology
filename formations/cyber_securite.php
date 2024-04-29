@@ -5,17 +5,17 @@
     <!-- meta for SEO -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <meta name="description" content="Maîtrisez l'Art de la Maintenance et du Réseau Informatique : Devenez le Pilier de la Performance Numérique">
-    <meta property="og:title" content="Maîtrisez l'Art de la Maintenance et du Réseau Informatique : Devenez le Pilier de la Performance Numérique" />
+    <meta name="description" content="Protégez le Monde Numérique : Devenez un Expert en Cybersécurité - soft ip technology">
+    <meta property="og:title" content="Protégez le Monde Numérique : Devenez un Expert en Cybersécurité" />
     <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon">
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- meta for og.graph -->
-    <meta property="og:image" content="https://i.postimg.cc/mkHcf4gq/informatique.jpg" />
+    <meta property="og:image" content="https://i.postimg.cc/VkwgqjMg/OIP-3.jpg" />
     <!-- <meta property="og:url" content="https://softiptechnology.com/" /> -->
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="softiptechnologie" />
-    <title>Maîtrisez l'Art de la Maintenance et du Réseau Informatique</title>
+    <title>Protégez le Monde Numérique : Devenez un Expert en Cybersécurité</title>
     <!-- all css -->
     <!-- <link rel="canonical" href="https://softiptechnology.com/"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
@@ -49,28 +49,27 @@
         <div class="row">
           <div class="col-md-3"></div>
           <div class="col-md-6 jpo order-md-1 order-2">
-            <h2>Maîtrisez l'Art de la Maintenance et du Réseau Informatique</h2>
+            <h2>Protégez le Monde Numérique : Devenez un Expert en Cybersécurité</h2>
             <div>
-              <img src="https://i.postimg.cc/KjjVDn27/OIP-1.jpg" alt="bâtiment" class="w-100">
+              <img src="https://i.postimg.cc/Hkt2BV9g/OIP-4.jpg" alt="bâtiment" class="w-100">
             </div>
             <div>
               <p class="pt-3">
-              Dans le monde numérique d'aujourd'hui, la maintenance et le réseau informatique sont des piliers essentiels de toute entreprise prospère. Notre programme de formation vous offre l'opportunité unique de maîtriser cet art crucial et d'acquérir des compétences précieuses qui vous démarqueront sur le marché du travail
+              Dans un monde de plus en plus connecté, la cybersécurité est devenue un enjeu majeur pour la protection des données et des systèmes informatiques. Notre programme de formation en cybersécurité vous offre les compétences et les connaissances nécessaires pour devenir un expert dans ce domaine stratégique.
               <br><br>
 
               En tant qu'apprenant, vous bénéficierez de nombreux avantages : <br><br>
-              <b>Expertise Technique Avancée :</b> Apprenez à diagnostiquer et à résoudre une variété de problèmes informatiques, de la maintenance matérielle à la configuration réseau, en passant par la sécurité informatique. <br><br>
+              <b></b>Expertise Technique de Pointe :</b> Apprenez à détecter, analyser et neutraliser les cybermenaces, en utilisant les dernières technologies et méthodes de défense. <br><br>
 
-              <b>Polyvalence Professionnelle :</b> En acquérant des compétences en maintenance et en réseau informatique, vous serez prêt à occuper divers postes, tels que technicien informatique, administrateur réseau ou encore consultant en sécurité. <br><br>
+              <b>Opportunités de Carrière Passionnantes :</b> Avec la demande croissante de professionnels en cybersécurité, vous serez prêt à saisir les nombreuses opportunités professionnelles offertes dans ce domaine en pleine expansion. <br><br>
 
-              <b>Opportunités de Carrière Passionnantes :</b> Avec la demande croissante de professionnels qualifiés en informatique, vous aurez un large éventail d'opportunités professionnelles dans divers secteurs, notamment l'informatique, les télécommunications et les services informatiques.  <br> <br>
-             <img src="https://i.postimg.cc/t4C4PKjp/R-4.jpg" alt="" class="w-100">
-             <b>Formation Pratique et Interactive :</b> Notre programme est conçu pour être interactif et pratique, vous permettant d'acquérir des compétences directement applicables sur le terrain. <br><br>
+              <b>Protection des Données Sensibles :</b> Acquérez les compétences nécessaires pour protéger les informations sensibles et confidentielles des organisations contre les attaques informatiques.  <br> <br>
+             <img src="https://i.postimg.cc/VkwgqjMg/OIP-3.jpg" alt="" class="w-100">
+             <b>Formation Interactive et Pratique :</b> Notre programme est conçu pour être interactif et pratique, vous permettant d'acquérir des compétences directement applicables dans le monde réel. <br><br>
 
-            <b>Soutien et Encadrement :</b> Vous bénéficierez du soutien de nos formateurs experts, qui seront là pour répondre à vos questions et vous guider tout au long de votre parcours de formation.
+             <b>Soutien Personnalisé :</b> Vous bénéficierez du soutien de nos formateurs experts, qui seront là pour répondre à vos questions et vous guider tout au long de votre parcours de formation. <br><br>
 
-            <br><br>
-            Ne manquez pas cette opportunité de développer des compétences précieuses et de devenir un expert recherché dans le domaine de la maintenance et du réseau informatique. Rejoignez-nous dès aujourd'hui et prenez le contrôle de votre avenir professionnel.
+             Ne manquez pas cette opportunité de développer des compétences essentielles en cybersécurité et de devenir un professionnel recherché dans ce domaine critique. Rejoignez-nous dès aujourd'hui et contribuez à rendre le monde numérique plus sûr pour tous.
  
               </p>
             </div>
