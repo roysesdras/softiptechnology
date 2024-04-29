@@ -1,9 +1,4 @@
 
-  
-
-
-
-
 <div class="footer">
   <div class="container-fluid">
     
@@ -54,15 +49,5 @@
     <div class="px-2 copyright">
         &copy; 2023 <strong><span>Sterna-Africa</span></strong>. Tout droit réservé 
     </div>
-  
-  
 
-  <div class="social-links text-center text-md-right pt-3 pt-md-0">
-    <a href="https://api.whatsapp.com/send?phone=2250556779012" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-    <a href="https://www.tiktok.com/@associationsternaafrica" class="tiktok"><i class="bx bxl-tiktok"></i></a>
-    <a href="https://web.facebook.com/sternaafrica/?_rdc=1&_rdr" class="facebook"><i class="bx bxl-facebook"></i></a>
-    <a href="https://www.instagram.com/associationsterna/" class="instagram"><i class="bx bxl-instagram"></i></a>
-    <a href="https://www.youtube.com/channel/UCekpxdwSoamybXcXT2rtJww" class="youtube"><i class="bx bxl-youtube"></i></a>
-    <a href="https://www.linkedin.com/feed/?trk=seo-authwall-base_google-one-tap-submit" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-  </div>
 </div>

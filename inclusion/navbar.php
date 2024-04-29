@@ -38,7 +38,8 @@
                     </li>
                 
                 </ul>
-                <input type="button" class="get-started" onclick="window.open('https://buy.stripe.com/aEU4iXa9Y9gA5j2000', '_blank')" value="Réserver une place">
+                <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20réservé%20une%20place%20chez%20vous%20!','_blank')" value="Réserver une place">
+
             </div>
         </div>
       </nav>

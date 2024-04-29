@@ -1,28 +1,31 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="auto">
+<html lang="fr" data-bs-theme="auto">
 <head><script src="../assets/js/color-modes.js"></script>
     <meta charset="UTF-8">
     <!-- meta for SEO -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <meta name="description" content=" Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale. Notre action s'étend sur plusieurs pays, œuvrant pour un impact positif et durable au service des communautés.">
-    <meta property="og:title" content="Sternaafrica: solidarité internationale" />
-    <meta property="og:description" content="Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale." />
+    <meta name="description" content="soft IP Technology: Découvrez les secrets du développement web et apprenez à créer des sites web époustouflants avec notre formation complète.">
+    <meta property="og:title" content="soft ip technology: developpement web" />
+    <meta property="og:description" content="soft IP Technology: Découvrez les secrets du développement web et apprenez à créer des sites web époustouflants avec notre formation complète." />
     <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon">
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- meta for og.graph -->
-    <meta property="og:image" content="https://i.ibb.co/jznQCd2/festival-solidarit.jpg" />
-    <meta property="og:url" content="https://sternaafrica.org/" />
+    <meta property="og:image" content="https://i.postimg.cc/PxBj9VRw/outils-developpeurs-debutants.jpg" />
+    <!-- <meta property="og:url" content="https://softiptechnology.com/" /> -->
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="sternaafrica" />
-    <title>camp ECSI: sternaafrica</title>
+    <meta property="og:site_name" content="soft ip technology" />
+    <title>Développement Web: Soft IP Technology</title>
     <!-- all css -->
-    <link rel="canonical" href="https://sternaafrica.org/">
+    <!-- <link rel="canonical" href="https://softiptechnology.com/"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
     <link rel="stylesheet" href="../style.css">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <link href="../com/style.css" rel="stylesheet" type="text/css">
+    <link href="../com/comments.css" rel="stylesheet" type="text/css">
 
     <style>
       i {
@@ -46,41 +49,45 @@
       <div class="container ">
         <div class="row">
           <div class="col-md-3"></div>
-          <div class="col-md-6 jpo">
+          <div class="col-md-6 jpo order-md-1 order-2">
+            <h2>Développement web: devenez un expert en création de site</h2>
             <div>
-              <img src="https://i.ibb.co/t3J3k46/camp-ecsi.jpg" alt="campEsci" class="w-100">
+              <img src="https://www.valdoisecommunication.fr/wp-content/uploads/2020/03/service-developpement-web.png" alt="campEsci" class="w-100">
             </div>
             <div>
               <p class="pt-3">
-                  Clap de fin pour cette deuxième édition du CAMP sur l'éducation à la citoyenneté et à la solidarité internationale qui s'est déroulé du 27 octobre au 05 novembre à Kpataba, dans la commune de Savalou, département des Collines au Bénin. <br><br>
+              Dans un monde numérique en constante évolution, le développement web est une compétence clé. C'est bien plus qu'une compétence technique : c'est une porte ouverte vers l'innovation et de nombreuses opportunités professionnelles. <br><br>
 
-                  Nous avons été honorés de travailler aux côtés de personnes aussi dévouées, passionnées et engagées. Leur soutien inébranlable et leur investissement ont joué un rôle essentiel dans le succès de cet événement. Grâce à leur collaboration, nous avons pu organiser une multitude d'activités éducatives, inspirantes et enrichissantes pour les participants. Des ateliers interactifs, des discussions stimulantes et des projets concrets ont permis de sensibiliser et de promouvoir les valeurs de citoyenneté et de solidarité internationale.
-                  <br><br>
-                  Au-delà de l'aspect éducatif, ce CAMP a également été une occasion privilégiée de tisser des liens durables entre les participants, les volontaires et les partenaires. Ces connexions renforcent notre réseau et nous permettent de continuer à promouvoir des initiatives similaires à l'avenir. <br><br>
+              Imaginez pouvoir donner vie à vos idées et créer des expériences en ligne captivantes qui engagent et inspirent les utilisateurs du monde entier. C'est précisément ce que vous pouvez accomplir en acquérant des connaissances en développement web. <br><br>
 
-                  Nous tenons à remercier chaleureusement tous ceux qui ont contribué, de près ou de loin, à la réussite de cet événement. Votre soutien indéfectible démontre votre engagement envers la promotion de l'éducation à la citoyenneté et à la solidarité internationale. Nous sommes fiers de ce que nous avons accompli ensemble et sommes impatients de continuer à travailler pour créer un monde meilleur, plus solidaire et plus équitable. <br><br>
+              <img src="https://i.postimg.cc/QC4FmywK/edit-html-and-css-on-your-web-page.webp" alt="" class="w-100">
+              Au cœur du développement web se trouvent des langages puissants et polyvalents comme HTML, CSS, PHP, MySQL et JavaScript. HTML et CSS sont les langages de base qui permettent de structurer et de styliser les pages web, offrant un contrôle total sur le design. Ils sont simples à apprendre et flexibles, constituant les fondations de tout site web. <br><br>
+              
+              <img src="https://i.postimg.cc/sfTLRJRn/tutorials24x7-connect-mysql-database-using-php-banner.jpg" alt="" class="w-100">
+              PHP est un langage de script côté serveur essentiel pour le développement web dynamique. Il permet de créer des sites web interactifs et dynamiques, de collecter des données à partir de formulaires et de se connecter à des bases de données. MySQL, l'un des systèmes de gestion de base de données les plus populaires, est idéal pour stocker et gérer efficacement les données des sites web. <br><br>
 
-                  Merci encore à tous nos partenaires et volontaires pour leur implication et leur soutien. Nous sommes reconnaissants de votre générosité et de votre dévouement envers notre cause. Ensemble, nous pouvons faire une différence significative dans la vie des individus et des communautés. Continuons de nous battre pour un avenir meilleur. <br><br>
-
-                  Retour en vidéo sur les temps forts de cette édition 2 et à l'année prochaine pour l'édition 3.
+              <img src="https://i.postimg.cc/9Q0ChfS9/4482fe09d95a0be765154b9cefff5e07f7fc32ff.webp" alt="" class="w-100">
+              le JavaScript est un langage de programmation côté client qui permet d'ajouter des fonctionnalités interactives et dynamiques aux sites web. Grâce au JavaScript, on peut créer des animations, des effets visuels, des jeux et bien plus encore, offrant ainsi une expérience utilisateur riche et immersive.
  
               </p>
             </div>
-
-              <!-- =================== place media ================== -->
-            <div class="d-block d-md-none d-xl-none d-sm-none d-lg-none ">
-                <iframe class="w-100" height="200" src="https://www.youtube.com/embed/uHSGz5yFd68?si=UY84yqYOO5E8HjnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div class="commentaire">
+              <?php include('../inclusion/com.php'); ?>
             </div>
-
-            <div class="d-none d-md-block d-xl-block d-sm-block ">
-                <iframe class="w-100" height="360" src="https://www.youtube.com/embed/uHSGz5yFd68?si=UY84yqYOO5E8HjnP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <!-- =================== End place media ================== -->
-
           </div>
           
-        <div class="col-md-3"></div>
-
+        <div class="col-md-3 order-md-2 order-1">
+          <div class="position-sticky" style="top: 2rem">
+                      <div class="p-1 mb-1 bg-primary-subtle rounded">
+                          <h4 class="fst-italic text-danger">A savoir:</h4>
+                      </div>
+                      <div class="row">
+                          <p>L'apprentissage du développement web est accessible à tous, du débutant à experts et s'étale sur une période de six mois, comprenant 90% de pratiques et 10% de théorie. <br>
+                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20développement%20web','_blank')" value="Plus d'information">
+                          </p>
+                      </div>
+                  </div>
+          </div>
         </div>
 
         
@@ -95,5 +102,8 @@
 
     <?php include_once('../inclusion/footer.php'); ?>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
 </body>
 </html>

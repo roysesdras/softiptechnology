@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="auto">
+<html lang="fr" data-bs-theme="auto">
 <head><script src="../assets/js/color-modes.js"></script>
     <meta charset="UTF-8">
     <!-- meta for SEO -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <meta name="description" content=" Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale. Notre action s'étend sur plusieurs pays, œuvrant pour un impact positif et durable au service des communautés.">
-    <meta property="og:title" content="Sternaafrica: solidarité internationale" />
-    <meta property="og:description" content="Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale." />
+    <meta name="description" content="Créez l'Extraordinaire : Explorez l'Univers Captivant du Graphisme">
+    <meta property="og:title" content="soft ip technology: Créez l'Extraordinaire, Explorez l'Univers Captivant du Graphisme" />
     <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon">
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- meta for og.graph -->
-    <meta property="og:image" content="https://i.ibb.co/jznQCd2/festival-solidarit.jpg" />
-    <meta property="og:url" content="https://sternaafrica.org/" />
+    <meta property="og:image" content="https://i.postimg.cc/Dw33vTxh/faculty-19.png" />
+    <!-- <meta property="og:url" content="https://softiptechnology.com/" /> -->
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="sternaafrica" />
-    <title>csi glazoue: sternaafrica</title>
+    <meta property="og:site_name" content="softiptechnologie" />
+    <title>Graphisme : Soft IP Technology</title>
     <!-- all css -->
-    <link rel="canonical" href="https://sternaafrica.org/">
+    <!-- <link rel="canonical" href="https://softiptechnology.com/"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
     <link rel="stylesheet" href="../style.css">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <link href="../com/style.css" rel="stylesheet" type="text/css">
+    <link href="../com/comments.css" rel="stylesheet" type="text/css">
 
     <style>
       i {
@@ -46,36 +48,48 @@
       <div class="container ">
         <div class="row">
           <div class="col-md-3"></div>
-          <div class="col-md-6 jpo">
-            <h4 class="text-center">CHANTIER DE SOLIDARITE INTERNATIONALE</h4>
+          <div class="col-md-6 jpo order-md-1 order-2">
+            <h2>Créez l'Extraordinaire : Explorez l'Univers Captivant du Graphisme</h2>
             <div>
-              <img src="https://i.ibb.co/TctSSP4/IMG-3.jpg" alt="CSI_gkazoue2023" class="w-100">
+              <img src="https://i.postimg.cc/Dw33vTxh/faculty-19.png" alt="bâtiment" class="w-100">
             </div>
             <div>
-              <p atyle="pt-3">
-              Pendant les vacances, nous nous sommes lancés dans une aventure passionnante et enrichissante dont nous sommes impatients de vous parler. Vous vous demandez où nous étions et pourquoi nous n’avons pas donné de nos nouvelles ? Eh bien, la réponse se trouve dans cette vidéo captivante qui vous dévoilera tout ce qui s’est passé au Bénin. <br>
+              <p class="pt-3">
+              Le graphisme est bien plus qu'un simple métier ; c'est un art qui allie créativité, technicité et innovation. En embrassant ce domaine, les apprenants découvrent un univers riche en possibilités et en opportunités.
+              <br><br>
 
-              <div class="d-block d-md-none d-xl-none d-sm-none d-lg-none ">
-                <iframe class="w-100" height="200" src="https://www.youtube.com/embed/Bb-aC9DuiFo?si=TjUq9lHyA8F7KddQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </div>
+              L'un des principaux avantages du graphisme réside dans sa capacité à communiquer des idées, des émotions et des concepts de manière visuelle et percutante. En maîtrisant les outils et les techniques du graphisme, les apprenants acquièrent la capacité de créer des designs attrayants et efficaces qui captent l'attention et transmettent un message de manière claire et impactante.
 
-              <div class="d-none d-md-block d-xl-block d-sm-block ">
-                <iframe class="w-100" height="360" src="https://www.youtube.com/embed/Bb-aC9DuiFo?si=TjUq9lHyA8F7KddQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              </div> <br>
+              <img src="https://i.postimg.cc/4NMt3WSS/CONSIDER-THE-COLOR-PALETTE.webp" alt="" class="w-100">
+              Au-delà de la créativité, le graphisme développe également des compétences techniques essentielles. Les apprenants apprennent à maîtriser les logiciels de design graphique, à comprendre les principes du design (composition, typographie, couleur, etc.) et à manipuler les éléments visuels pour créer des œuvres originales et percutantes. <br><br>
 
-              Rappelez-vous, du 10 Juillet au 11 Août 2023, nous avons investi le département des collines au Bénin, plus précisément à l’école primaire publique de Zongo. Notre mission était de donner un nouveau souffle à un module composé de trois salles de classe. Ce projet exceptionnel s’inscrivait dans le cadre de notre chantier de solidarité internationale, réalisé en partenariat avec les Compagnons Scouts et Guides de France « Eté Vert » ainsi que l’ONG Epanouissement Plus. <br><br>
-
-              Nous avons travaillé d’arrache-pied pour transformer ces salles de classe en véritables espaces d’apprentissage inspirants, propices à l’épanouissement des enfants. Chaque coup de pêle , chaque geste était empreint de notre volonté commune de faire une différence positive dans la vie de ces jeunes élèves. 
+              Par ailleurs, le graphisme offre de nombreuses opportunités professionnelles dans des domaines variés tels que le design d'interface utilisateur, le design de produits, le design d'illustration, la publicité, le branding, etc. Les apprenants peuvent également choisir de travailler en freelance et de créer leur propre entreprise, ce qui leur donne une grande liberté et flexibilité dans leur carrière.
+ 
               </p>
             </div>
- 
+            <div class="commentaire">
+              <?php include('../inclusion/com.php'); ?>
+            </div>
           </div>
-
-            <div class="col-md-3"></div>
-
+          
+        <div class="col-md-3 order-md-2 order-1">
+          <div class="position-sticky" style="top: 2rem">
+                      <div class="p-1 mb-1 bg-primary-subtle rounded">
+                          <h4 class="fst-italic text-danger">A savoir:</h4>
+                      </div>
+                      <div class="row">
+                          <p>L'apprentissage du développement web est accessible à tous, du débutant à experts et s'étale sur une période de six mois, comprenant 90% de pratiques et 10% de théorie. <br>
+                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20développement%20web','_blank')" value="Plus d'information">
+                          </p>
+                      </div>
+                  </div>
+          </div>
         </div>
 
+        
+
       </div> <!-- end container -->
+
 
     </div>
 
@@ -84,5 +98,8 @@
 
     <?php include_once('../inclusion/footer.php'); ?>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
 </body>
 </html>

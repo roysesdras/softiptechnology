@@ -36,7 +36,7 @@
             <div class="col-md-9 order-md-1 order-2 pb-4">
                 <h3 class="pb-4 mb-4 fst-italic border-bottom bg-secondary-subtle rounded p-3" style="color:#008000;">Nos Formations</h3>
                 <div class="row">
-                    <?php include_once ('inclusion/actualite.php'); ?>
+                    <?php include_once ('inclusion/formation.php'); ?>
                 </div>
                 <div class="hr">
                     <hr>
@@ -93,7 +93,7 @@
                         <h4 class="fst-italic text-danger evenement">Annonces</h4>
                     </div>
                     <div class="row">
-                        <?php include_once ('inclusion/evene.php'); ?>
+                        <?php include_once ('inclusion/annonce.php'); ?>
                     </div>
                 </div>
             </div>
