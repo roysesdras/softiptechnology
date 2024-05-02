@@ -85,8 +85,8 @@
                           <h4 class="fst-italic text-danger">A savoir:</h4>
                       </div>
                       <div class="row">
-                          <p>L'apprentissage du développement web est accessible à tous, du débutant à experts et s'étale sur une période de six mois, comprenant 90% de pratiques et 10% de théorie. <br>
-                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20développement%20web','_blank')" value="Plus d'information">
+                          <p>Étalée sur neuf mois, notre approche pratique à 90% vous permettra de développer des compétences concrètes. Les 10% restants sont dédiés à la théorie<br>
+                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20la%20maintenance%20et%20réseau%20informatique','_blank')" value="Plus d'information">
                           </p>
                       </div>
                   </div>

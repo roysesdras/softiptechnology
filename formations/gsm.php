@@ -83,8 +83,8 @@
                           <h4 class="fst-italic text-danger">A savoir:</h4>
                       </div>
                       <div class="row">
-                          <p>L'apprentissage du développement web est accessible à tous, du débutant à experts et s'étale sur une période de six mois, comprenant 90% de pratiques et 10% de théorie. <br>
-                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20développement%20web','_blank')" value="Plus d'information">
+                          <p>Étendue sur quatres mois, notre programme met l’accent à 100% sur la pratique pour renforcé le niveau <br>
+                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20gsm%20et%20réparation','_blank')" value="Plus d'information">
                           </p>
                       </div>
                   </div>

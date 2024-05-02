@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="auto">
+<html lang="fr" data-bs-theme="auto">
 <head><script src="../assets/js/color-modes.js"></script>
     <meta charset="UTF-8">
     <!-- meta for SEO -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <meta name="description" content=" Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale. Notre action s'étend sur plusieurs pays, œuvrant pour un impact positif et durable au service des communautés.">
-    <meta property="og:title" content="Sternaafrica: solidarité internationale" />
-    <meta property="og:description" content="Sterna Africa: Association de solidarité internationale engagée dans le volontariat et le développement communautaire à l'échelle mondiale." />
+    <meta name="description" content="Dominez votre marché avec des stratégies de marketing digital innovantes - soft ip technology">
+    <meta property="og:title" content="Dominez votre marché avec des stratégies de marketing digital innovantes" />
     <!-- Favicons -->
     <link href="../assets/img/favicon.png" rel="icon">
     <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- meta for og.graph -->
-    <meta property="og:image" content="https://i.ibb.co/jznQCd2/festival-solidarit.jpg" />
-    <meta property="og:url" content="https://sternaafrica.org/" />
+    <meta property="og:image" content="https://i.postimg.cc/bdfZq5Gv/digital-marketing.jpg" />
+    <!-- <meta property="og:url" content="https://softiptechnology.com/" /> -->
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="sternaafrica" />
-    <title>jvf: sternaafrica</title>
+    <meta property="og:site_name" content="softiptechnologie" />
+    <title>Dominez votre marché avec des stratégies de marketing digital innovantes</title>
     <!-- all css -->
-    <link rel="canonical" href="https://sternaafrica.org/">
+    <!-- <link rel="canonical" href="https://softiptechnology.com/"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
     <link rel="stylesheet" href="../style.css">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <link href="../com/style.css" rel="stylesheet" type="text/css">
+    <link href="../com/comments.css" rel="stylesheet" type="text/css">
 
     <style>
       i {
@@ -46,23 +48,40 @@
       <div class="container ">
         <div class="row">
           <div class="col-md-3"></div>
-          <div class="col-md-6 jpo">
+          <div class="col-md-6 jpo order-md-1 order-2">
+            <h2>Dominez votre marché avec des stratégies de marketing digital innovantes</h2>
             <div>
-              <img src="https://i.ibb.co/8jdNTKT/JNF.jpg" alt="journeePorteOuverte" class="w-100">
+              <img src="https://i.postimg.cc/bdfZq5Gv/digital-marketing.jpg" alt="bâtiment" class="w-100">
             </div>
             <div>
               <p class="pt-3">
-                  Sur invitation des espace de volontariat français du Bénin et de la Côte d'Ivoire, nos deux antennes dans ces pays ont été invité à participer à la Journée du Volontariat Français respectivement les 06 et 12 Octobre dernier en tant que partenaire et structure d'accueil de volontaires français dans ces deux pays où notre association est très active.<br><br>
+              Dans un monde de plus en plus connecté, le marketing digital est devenu essentiel pour toute entreprise cherchant à prospérer. Grâce à ses multiples avantages, le marketing digital permet de cibler précisément les audiences, d'augmenter la visibilité en ligne, de générer des leads qualifiés et d'améliorer le retour sur investissement. Apprendre le marketing digital offre donc des opportunités uniques pour les professionnels souhaitant se démarquer dans le monde du marketing.
+              <br><br>
 
-                  Chaque année dans le mois d'octobre, ce grand rendez-vous réunit les acteurs du volontariat, institutionnels et associatifs, structures d’accueil et d’envoi, partenaires et volontaires locaux et internationaux pour mettre en lumière l’engagement des volontaires mobilisés sur le terrain.... <a href="https://web.facebook.com/story.php?story_fbid=pfbid02DYMfrGEMBh3j4KmsSaeUJJrES4beTeGmadWRqXhR6amQHyqte2uEtJCSU5gFFSmEl&id=100068055194025&mibextid=ZbWKwL&_rdc=1&_rdr">découvre tout ici 🙂</a>
+              En suivant une formation en marketing digital, les apprenants acquièrent un ensemble de compétences précieuses. Ils apprennent à élaborer des stratégies de marketing efficaces, à utiliser les outils numériques les plus avancés, à analyser les données pour prendre des décisions éclairées et à optimiser les campagnes pour obtenir les meilleurs résultats. Ces compétences sont non seulement précieuses pour les professionnels du marketing, mais aussi pour les entrepreneurs, les freelances et toute personne cherchant à se démarquer dans un environnement numérique en constante évolution. <br><br>
+
+             <img src="https://i.postimg.cc/25kR9qVq/mk.jpg" alt="" class="w-100">
+             En résumé, le marketing digital offre des avantages significatifs pour les entreprises et les professionnels du marketing. C'est un domaine en plein essor qui offre des opportunités passionnantes pour ceux qui maîtrisent ses techniques. En suivant une formation en marketing digital, les apprenants développent des compétences essentielles pour réussir dans le monde numérique d'aujourd'hui.
  
               </p>
             </div>
-   
+            <div class="commentaire">
+              <?php include('../inclusion/com.php'); ?>
+            </div>
           </div>
-
-           <div class="col-md-3"></div>
-
+          
+        <div class="col-md-3 order-md-2 order-1">
+          <div class="position-sticky" style="top: 2rem">
+                      <div class="p-1 mb-1 bg-primary-subtle rounded">
+                          <h4 class="fst-italic text-danger">A savoir:</h4>
+                      </div>
+                      <div class="row">
+                          <p>Ouvert à tous, et se déroule sur une période de six mois, mettant l'accent sur une approche pratique avec 90% et 10% de théorie. <br>
+                          <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20avoir%20plus%20d\'informations%20sur%20le%20marketing%20digital','_blank')" value="Plus d'information">
+                          </p>
+                      </div>
+                  </div>
+          </div>
         </div>
 
         
@@ -73,7 +92,12 @@
     </div>
 
 
+
+
     <?php include_once('../inclusion/footer.php'); ?>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
