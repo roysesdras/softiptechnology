@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse" id="navbarsExample03">
                 <ul class="navbar-nav ms-auto mb-2 mb-sm-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="https://sternaafrica.org/pages/about.php">Sur Nous</a>
+                        <a class="nav-link" href="./about.php">Sur Nous</a>
                     </li>
                     
 
