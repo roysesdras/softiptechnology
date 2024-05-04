@@ -123,10 +123,11 @@ div a {
 }
 
 .button {
-    border         : solid 1px #305196;
-    padding        : 0.15em;
-    color          : #305196;
-    text-decoration: none;
+    border          : solid 1px #305196;
+    padding         : 0.15em;
+    color           : #305196;
+    background-color: transparent;
+    text-decoration : none;
 }
 
 .button:hover {

@@ -32,9 +32,9 @@
           <a href="https://sternaafrica.org/rapport/annee_2023">Décoration</a><br><br>
       </div>
 
-      <div class="col-lg-3 col-md-6 footer-links pt-3">
+      <div class="col-lg-3 col-md-6 footer-links pt-2">
         <h4>Contact</h4>
-        <strong>Email:</strong> <a href="mailto:contact@sternaafrica.org">contact@sternaafrica.org</a><br>
+        <strong>Email:</strong> <a href="mailto:contact@softiptechnology.com">contact@softiptechnology.com</a><br>
           <strong>Contact:</strong> +229 96 73 50 00<br>
       </div>
      
