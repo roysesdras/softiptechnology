@@ -100,6 +100,79 @@
                 </div>
             </div>
         </div>
+
+        <div class="row mb-4">
+        <h4 class="text-center">Contact</h4>
+        <p>Si vous avez des questions ou des préoccupations supplémentaires, veuillez nous les communiquer en remplissant le formulaire de contact ou en nous contactant directement.</p>
+          <div class="col-md-8 shadow p-3">
+          <form method="post" action="contact.php">
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="row">
+                      <div class="col-md-6 mb-3">
+                        <label>Nom complet</label>
+                        <input type="text" class="form-control" name="fullname" required placeholder="veuillez entrer votre Prénom et Nom">
+                      </div>
+
+                      <!-- mail adress -->
+                      <div class="col-md-6 mb-3">
+                        <label>Email address</label>
+                        <input type="email" class="form-control" name="email" required placeholder="votre adresse e-mail valide">
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-md-12">
+                    <div class="mb-3">
+                      <label>Votre méssage</label>
+                      <textarea class="form-control" rows="3" name="message" required placeholder="parlez moi de votre préoccupation"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <!-- fullname -->
+                
+
+                <!-- telephone -->
+                <!-- <div class="mb-3">
+                  <label>Numéro (wathssap)</label>
+                  <input type="phone" class="form-control" name="phone" required placeholder="votre numéro whatssap fonctionnel">
+                </div> -->
+
+                <!-- ville -->
+                <!-- <div class="mb-3">
+                  <label>Votre ville</label>
+                  <input type="text" class="form-control" name="city" required placeholder="votre ville actuel">
+                </div> -->
+
+                <!-- objet -->
+                <!-- <div class="mb-3">
+                  <label>Objet</label>
+                  <input type="text" class="form-control" name="sujet" required placeholder="préciser la quête de votre message (rituel, consultation ...)">
+                </div> -->
+
+                <!-- message -->
+                
+                <button type="submit" class="button">Envoyer</button>
+              </form>
+          </div>
+
+          <div class="col-md-4">
+          <ul class="list-unstyled mb-0">
+                      <li><i class="bi bi-geo-alt-fill mt-4 fa-2x" style="font-size: 2rem;"></i>
+                          <p>Ouidah, Bénin</p>
+                      </li>
+
+                      <li><i class="bi bi-whatsapp mt-4 fa-2x" style="font-size: 2rem;"></i>
+                          <p>+229-967-350-00</p>
+                      </li>
+
+                      <li><i class="bi bi-envelope mt-4 fa-2x" style="font-size: 2rem;"></i></i>
+                          <p>info@softiptechnology.com</p>
+                      </li>
+                  </ul>
+          </div>
+
+        </div>
     </div>
 
     <?php include_once('inclusion/footer.php'); ?>

@@ -47,7 +47,7 @@
             <div class="col-md-3"></div>
             
             <div class="col-md-6 pt-2">
-            <form action="mail_inscription.php" method="post" class="mb-4 p-2 shadow p-3" id="forms">
+                        <form action="mail_inscription.php" method="post" class="mb-4 p-2 shadow p-3" id="forms">
                             <!-- Nom -->
                             <div class="mb-3">
                                 <label>Nom complet </label>
@@ -98,7 +98,7 @@
                             <div class="form-check mb-4">
                                 <input class="form-check-input" type="checkbox" id="gridCheck" required>
                                 <label class="form-check-label" for="gridCheck">
-                                En soumettant ce formulaire, vous acceptez notre <a href="">CGU</a> ainsi que notre <a href="">politique de paiement</a>.
+                                En soumettant ce formulaire, vous confirmez votre inscription à la formation.
                                 </label>
                             </div>
     

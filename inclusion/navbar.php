@@ -5,7 +5,8 @@
       <nav class="navbar navbar-expand-sm navbar-tertiary bg-tertiary shadow p-0" aria-label="Third navbar example">
         <div class="container-fluid">
             <!-- navbar logos -->
-        <a href="https://sternaafrica.org/" class="logo me-auto"><img src="https://i.postimg.cc/MHHjkcG5/SOFT-IP.png" alt="logos sterna" class="img-fluid"></a>
+        <!-- mettre le liens absolue de softiptechnology quans on clic sur le logos -->
+        <a href="index.php" class="logo me-auto"><img src="https://i.postimg.cc/MHHjkcG5/SOFT-IP.png" alt="logos sterna" class="img-fluid"></a>
 
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -38,7 +39,8 @@
                     </li>
                 
                 </ul>
-                <input type="button" class="get-started" onclick="window.open('https://api.whatsapp.com/send?phone=22996735000&text=Bonjour,%20j\'aimerais%20réservé%20une%20place%20chez%20vous%20!','_blank')" value="Réserver une place">
+                <!-- mette le liens absolue vers inscription_form.php pour la redirection -->
+                <input type="button" class="get-started" onclick="window.open('inscription_form.php')" value="Réserver une place">
 
             </div>
         </div>

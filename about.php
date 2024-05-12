@@ -51,7 +51,7 @@
                 </p>
                 <div>
                     <!-- <h3 class="p-4 fst-italic border-bottom" style="color:#305196;">Membres du Bureau Internationale</h3> -->
-                    <?php include_once('./inclusion/bureau_inter.php'); ?>
+                    <?php include_once('./inclusion/formateur.php'); ?>
                 </div> <br>
 
                 <p>
